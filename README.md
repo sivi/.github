@@ -18,4 +18,5 @@ Refinement: The design is optimized for visual harmony and usability
 SDK: https://developer.sivi.ai/docs/sivi-ui-sdk/overview
 API: https://developer.sivi.ai/docs/sivi-api/overview
 
+Link to Sivi Official website: https://sivi.ai
 
