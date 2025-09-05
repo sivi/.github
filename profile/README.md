@@ -15,8 +15,10 @@ Composition: Elements are assembled into a cohesive, multi-layered design
 Refinement: The design is optimized for visual harmony and usability
 
 ##Please check the developer documentation to know more.
-SDK: https://developer.sivi.ai/docs/sivi-ui-sdk/overview
-API: https://developer.sivi.ai/docs/sivi-api/overview
+
+###SDK: https://developer.sivi.ai/docs/sivi-ui-sdk/overview
+
+###API: https://developer.sivi.ai/docs/sivi-api/overview
 
 Link to Sivi Official website: https://sivi.ai
 
